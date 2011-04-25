@@ -1,0 +1,494 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* EyeballAnimationAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2523, 1602}}";
+			sepNavSelRange = "{2197, 0}";
+			sepNavVisRange = "{1259, 1488}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* EyeballAnimation */ = {
+		activeExec = 0;
+		executables = (
+			598DD34B136569ED002D6C60 /* EyeballAnimation */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* EyeballAnimationViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1562, 921}}";
+			sepNavSelRange = "{618, 0}";
+			sepNavVisRange = "{0, 618}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1562, 3042}}";
+			sepNavSelRange = "{3677, 0}";
+			sepNavVisRange = "{2474, 1281}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 598DD34B136569ED002D6C60 /* EyeballAnimation */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* EyeballAnimation */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* EyeballAnimation */,
+		);
+		codeSenseManager = 598DD35B136569F1002D6C60 /* Code sense */;
+		executables = (
+			598DD34B136569ED002D6C60 /* EyeballAnimation */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1384,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325413357;
+			PBXWorkspaceStateSaveDate = 325413357;
+		};
+		perUserProjectItems = {
+			598DD35C13656ADA002D6C60 /* PBXTextBookmark */ = 598DD35C13656ADA002D6C60 /* PBXTextBookmark */;
+			598DD35D13656ADA002D6C60 /* PBXTextBookmark */ = 598DD35D13656ADA002D6C60 /* PBXTextBookmark */;
+			598DD36513656B23002D6C60 /* PBXTextBookmark */ = 598DD36513656B23002D6C60 /* PBXTextBookmark */;
+			598DD36613656B23002D6C60 /* PBXTextBookmark */ = 598DD36613656B23002D6C60 /* PBXTextBookmark */;
+			598DD36713656B23002D6C60 /* PBXTextBookmark */ = 598DD36713656B23002D6C60 /* PBXTextBookmark */;
+			598DD36D13656DA3002D6C60 /* PBXTextBookmark */ = 598DD36D13656DA3002D6C60 /* PBXTextBookmark */;
+			598DD36E13656DA3002D6C60 /* PBXBookmark */ = 598DD36E13656DA3002D6C60 /* PBXBookmark */;
+			598DD36F13656DA3002D6C60 /* PBXBookmark */ = 598DD36F13656DA3002D6C60 /* PBXBookmark */;
+			598DD37013656DA3002D6C60 /* PBXBookmark */ = 598DD37013656DA3002D6C60 /* PBXBookmark */;
+			598DD39A136573D0002D6C60 /* PBXTextBookmark */ = 598DD39A136573D0002D6C60 /* PBXTextBookmark */;
+			598DD39E136573E4002D6C60 /* PBXBookmark */ = 598DD39E136573E4002D6C60 /* PBXBookmark */;
+			598DD39F136573E4002D6C60 /* PBXTextBookmark */ = 598DD39F136573E4002D6C60 /* PBXTextBookmark */;
+			598DD3A0136573E4002D6C60 /* PBXTextBookmark */ = 598DD3A0136573E4002D6C60 /* PBXTextBookmark */;
+			598DD3A1136573E4002D6C60 /* PBXTextBookmark */ = 598DD3A1136573E4002D6C60 /* PBXTextBookmark */;
+			598DD3A61365767E002D6C60 /* PBXTextBookmark */ = 598DD3A61365767E002D6C60 /* PBXTextBookmark */;
+			598DD3A71365767E002D6C60 /* PBXTextBookmark */ = 598DD3A71365767E002D6C60 /* PBXTextBookmark */;
+			598DD3A81365767E002D6C60 /* PBXTextBookmark */ = 598DD3A81365767E002D6C60 /* PBXTextBookmark */;
+			598DD3AB136576BE002D6C60 /* PBXTextBookmark */ = 598DD3AB136576BE002D6C60 /* PBXTextBookmark */;
+			598DD3B21365777B002D6C60 /* PBXTextBookmark */ = 598DD3B21365777B002D6C60 /* PBXTextBookmark */;
+			598DD3B51365778A002D6C60 /* PBXTextBookmark */ = 598DD3B51365778A002D6C60 /* PBXTextBookmark */;
+			598DD3B8136577AC002D6C60 /* PBXTextBookmark */ = 598DD3B8136577AC002D6C60 /* PBXTextBookmark */;
+			598DD3BB136577EF002D6C60 /* PBXTextBookmark */ = 598DD3BB136577EF002D6C60 /* PBXTextBookmark */;
+			598DD3C01365785C002D6C60 /* PBXTextBookmark */ = 598DD3C01365785C002D6C60 /* PBXTextBookmark */;
+			598DD3C313657870002D6C60 /* PBXTextBookmark */ = 598DD3C313657870002D6C60 /* PBXTextBookmark */;
+			598DD3C8136578D0002D6C60 /* PBXTextBookmark */ = 598DD3C8136578D0002D6C60 /* PBXTextBookmark */;
+			598DD3CB136578FF002D6C60 /* PBXTextBookmark */ = 598DD3CB136578FF002D6C60 /* PBXTextBookmark */;
+			598DD3CE13657913002D6C60 /* PBXTextBookmark */ = 598DD3CE13657913002D6C60 /* PBXTextBookmark */;
+			598DD3D51365798D002D6C60 /* PBXTextBookmark */ = 598DD3D51365798D002D6C60 /* PBXTextBookmark */;
+			598DD3D8136579BA002D6C60 /* PBXTextBookmark */ = 598DD3D8136579BA002D6C60 /* PBXTextBookmark */;
+			598DD3DB136579DE002D6C60 /* PBXTextBookmark */ = 598DD3DB136579DE002D6C60 /* PBXTextBookmark */;
+			598DD3DC13657A35002D6C60 /* PBXTextBookmark */ = 598DD3DC13657A35002D6C60 /* PBXTextBookmark */;
+			598DD3DD13657A70002D6C60 /* PBXTextBookmark */ = 598DD3DD13657A70002D6C60 /* PBXTextBookmark */;
+			598DD3DE13657A70002D6C60 /* PBXTextBookmark */ = 598DD3DE13657A70002D6C60 /* PBXTextBookmark */;
+			598DD3E513657DBA002D6C60 /* PBXTextBookmark */ = 598DD3E513657DBA002D6C60 /* PBXTextBookmark */;
+			598DD3E613657DBA002D6C60 /* PBXTextBookmark */ = 598DD3E613657DBA002D6C60 /* PBXTextBookmark */;
+			598DD3E713657DBA002D6C60 /* PBXTextBookmark */ = 598DD3E713657DBA002D6C60 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 598DD35A136569F1002D6C60 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 342}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 210}";
+		};
+	};
+	598DD34B136569ED002D6C60 /* EyeballAnimation */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = EyeballAnimation;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	598DD35A136569F1002D6C60 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	598DD35B136569F1002D6C60 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	598DD35C13656ADA002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 167;
+		vrLoc = 0;
+	};
+	598DD35D13656ADA002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 159;
+		vrLoc = 0;
+	};
+	598DD36513656B23002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 18";
+		rLen = 0;
+		rLoc = 363;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 0;
+	};
+	598DD36613656B23002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* EyeballAnimationAppDelegate.m */;
+		name = "EyeballAnimationAppDelegate.m: 6";
+		rLen = 11;
+		rLoc = 119;
+		rType = 0;
+		vrLen = 1347;
+		vrLoc = 0;
+	};
+	598DD36713656B23002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* EyeballAnimationAppDelegate.m */;
+		name = "EyeballAnimationAppDelegate.m: 9";
+		rLen = 0;
+		rLoc = 196;
+		rType = 0;
+		vrLen = 1488;
+		vrLoc = 1259;
+	};
+	598DD36D13656DA3002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* EyeballAnimationAppDelegate.m */;
+		name = "EyeballAnimationAppDelegate.m: 62";
+		rLen = 0;
+		rLoc = 2197;
+		rType = 0;
+		vrLen = 1488;
+		vrLoc = 1259;
+	};
+	598DD36E13656DA3002D6C60 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 598DD36813656D06002D6C60 /* eyeball.png */;
+	};
+	598DD36F13656DA3002D6C60 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 598DD36A13656D98002D6C60 /* eyeball@2x.png */;
+	};
+	598DD37013656DA3002D6C60 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 598DD36A13656D98002D6C60 /* eyeball@2x.png */;
+	};
+	598DD39A136573D0002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 210;
+		vrLoc = 0;
+	};
+	598DD39E136573E4002D6C60 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 598DD36A13656D98002D6C60 /* eyeball@2x.png */;
+	};
+	598DD39F136573E4002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* EyeballAnimationViewController.h */;
+		name = "EyeballAnimationViewController.h: 10";
+		rLen = 13;
+		rLoc = 204;
+		rType = 0;
+		vrLen = 563;
+		vrLoc = 0;
+	};
+	598DD3A0136573E4002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 25";
+		rLen = 13;
+		rLoc = 696;
+		rType = 0;
+		vrLen = 1363;
+		vrLoc = 0;
+	};
+	598DD3A1136573E4002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 104";
+		rLen = 0;
+		rLoc = 2272;
+		rType = 0;
+		vrLen = 1285;
+		vrLoc = 1504;
+	};
+	598DD3A61365767E002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* EyeballAnimationViewController.h */;
+		name = "EyeballAnimationViewController.h: 18";
+		rLen = 16;
+		rLoc = 418;
+		rType = 0;
+		vrLen = 610;
+		vrLoc = 0;
+	};
+	598DD3A71365767E002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 139";
+		rLen = 0;
+		rLoc = 3161;
+		rType = 0;
+		vrLen = 1418;
+		vrLoc = 2054;
+	};
+	598DD3A81365767E002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 141";
+		rLen = 0;
+		rLoc = 3161;
+		rType = 0;
+		vrLen = 1480;
+		vrLoc = 2158;
+	};
+	598DD3AB136576BE002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 144";
+		rLen = 0;
+		rLoc = 3162;
+		rType = 0;
+		vrLen = 1854;
+		vrLoc = 1716;
+	};
+	598DD3B21365777B002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 41";
+		rLen = 0;
+		rLoc = 1010;
+		rType = 0;
+		vrLen = 1196;
+		vrLoc = 443;
+	};
+	598DD3B51365778A002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 41";
+		rLen = 0;
+		rLoc = 1008;
+		rType = 0;
+		vrLen = 1196;
+		vrLoc = 443;
+	};
+	598DD3B8136577AC002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 141";
+		rLen = 0;
+		rLoc = 3161;
+		rType = 0;
+		vrLen = 1846;
+		vrLoc = 1798;
+	};
+	598DD3BB136577EF002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 41";
+		rLen = 0;
+		rLoc = 1010;
+		rType = 0;
+		vrLen = 1183;
+		vrLoc = 550;
+	};
+	598DD3C01365785C002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 41";
+		rLen = 0;
+		rLoc = 1008;
+		rType = 0;
+		vrLen = 1278;
+		vrLoc = 331;
+	};
+	598DD3C313657870002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 41";
+		rLen = 0;
+		rLoc = 1008;
+		rType = 0;
+		vrLen = 1280;
+		vrLoc = 331;
+	};
+	598DD3C8136578D0002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 106";
+		rLen = 0;
+		rLoc = 2280;
+		rType = 0;
+		vrLen = 1562;
+		vrLoc = 1432;
+	};
+	598DD3CB136578FF002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 141";
+		rLen = 0;
+		rLoc = 3161;
+		rType = 0;
+		vrLen = 1482;
+		vrLoc = 2160;
+	};
+	598DD3CE13657913002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 141";
+		rLen = 0;
+		rLoc = 3161;
+		rType = 0;
+		vrLen = 1483;
+		vrLoc = 2160;
+	};
+	598DD3D51365798D002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 160";
+		rLen = 0;
+		rLoc = 3746;
+		rType = 0;
+		vrLen = 1354;
+		vrLoc = 2377;
+	};
+	598DD3D8136579BA002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 15";
+		rLen = 0;
+		rLoc = 397;
+		rType = 0;
+		vrLen = 1639;
+		vrLoc = 0;
+	};
+	598DD3DB136579DE002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 15";
+		rLen = 0;
+		rLoc = 397;
+		rType = 0;
+		vrLen = 1639;
+		vrLoc = 0;
+	};
+	598DD3DC13657A35002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 164";
+		rLen = 0;
+		rLoc = 3755;
+		rType = 0;
+		vrLen = 1308;
+		vrLoc = 2423;
+	};
+	598DD3DD13657A70002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 129";
+		rLen = 0;
+		rLoc = 2831;
+		rType = 0;
+		vrLen = 1102;
+		vrLoc = 2532;
+	};
+	598DD3DE13657A70002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 268;
+		vrLoc = 0;
+	};
+	598DD3E513657DBA002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* EyeballAnimationViewController.h */;
+		name = "EyeballAnimationViewController.h: 26";
+		rLen = 0;
+		rLoc = 618;
+		rType = 0;
+		vrLen = 618;
+		vrLoc = 0;
+	};
+	598DD3E613657DBA002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 164";
+		rLen = 0;
+		rLoc = 3755;
+		rType = 0;
+		vrLen = 3101;
+		vrLoc = 630;
+	};
+	598DD3E713657DBA002D6C60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EyeballAnimationViewController.m */;
+		name = "EyeballAnimationViewController.m: 159";
+		rLen = 0;
+		rLoc = 3677;
+		rType = 0;
+		vrLen = 1281;
+		vrLoc = 2474;
+	};
+}
